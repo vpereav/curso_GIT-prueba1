@@ -18,3 +18,5 @@ Este es el __primer__ párrafo
 Cosa |  Nombre  | Color
 -----| ---------| -------
 Fruta| Manzana| Roja
+
+Añadido
