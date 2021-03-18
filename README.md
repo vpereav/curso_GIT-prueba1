@@ -19,4 +19,6 @@ Cosa |  Nombre  | Color
 -----| ---------| -------
 Fruta| Manzana| Roja
 
-he cambiado el readme
+
+he mergeado el readme
+
